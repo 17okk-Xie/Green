@@ -2,7 +2,11 @@
 
 A modern e-commerce website for a premium salad business, built with Next.js and Tailwind CSS.
 
-[Live Demo](https://green-sepia-six.vercel.app/)
+🔗[Live Demo](https://green-sepia-six.vercel.app/)
+
+🔗[Future Layouts](/doc/layout.md)
+
+🔗[Sells](/doc/note.md)
 
 ## Features
 
